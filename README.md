@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Burak Yücel</h1>
-<h3 align="center">Software Engineering Student.</h3>
-
 - 🌱 I’m currently learning **React from "Full Stack Open"**
 
 - 📫 How to reach me **burakyccl@gmail.com**
