@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Burak Yücel</h1>
+<h1 align="center">
+![alt text](https://raw.githubusercontent.com/burakyccl/burakyccl/main/logo-03.png)
+
+  Hi 👋, I'm Burak Yücel
+</h1>
 
 - 🌱 I’m currently learning **React from "Full Stack Open"**
 
