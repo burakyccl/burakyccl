@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Yücel</h1>
-<h3 align="center">Software Engineering Student.</h3>
+<h3 align="center">Software Engineering Student which lvoes .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakyccl&label=Views&color=ff7575&style=flat" alt="burakyccl" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakyccl" alt="burakyccl" /></a> </p>
 
 - 🌱 I’m currently learning **React from "Full Stack Open"**
 
