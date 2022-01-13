@@ -4,18 +4,11 @@
 
 - 📫 How to reach me **burakyccl@gmail.com**
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Connect with me:</h3>
-    </td>
-    <td valign="top"><a href="https://linkedin.com/in/burakyccl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakyccl" height="30" width="40" /></a>
-    </td>
-    <td valign="top">
-      <a href="https://instagram.com/burakyccl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakyccl" height="30" width="40" /></a>
-    </td>
-  </tr>
-</table>
+<h3 style="display: flex;">Connect with me:
+
+<a href="https://linkedin.com/in/burakyccl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakyccl" height="30" width="40" /></a>
+<a href="https://instagram.com/burakyccl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakyccl" height="30" width="40" /></a>
+</h3>
 
 
 
