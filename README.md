@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Burak Yücel
+Hi 👋, I'm Burak
 </h1>
 
 - 🌱 I’m currently learning **React from "Full Stack Open"**
