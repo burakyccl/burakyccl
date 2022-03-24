@@ -2,7 +2,7 @@
 Hi 👋, I'm Burak
 </h1>
 
-- 🌱 I’m currently learning **React from "Full Stack Open"**
+- 🌱 I’m currently learning Vue
 
 - 📫 How to reach me **burakyccl@gmail.com**
 
